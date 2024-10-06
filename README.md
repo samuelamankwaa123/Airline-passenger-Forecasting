@@ -6,7 +6,7 @@ Project Overview
 This repository contains:
 
 The cleaned airline passenger dataset.
-A Jupyter Notebook or Python script that demonstrates the following steps:
+Python script that demonstrates the following steps:
 Data cleaning and preprocessing.
 Visualization of the time series.
 Decomposition of the time series into trend, seasonality, and residual components.
@@ -46,6 +46,6 @@ Future Forecast: Visualizes the 12-month forecast alongside historical data.
 Files
 international-airline-passengers.csv: The dataset used for analysis.
 ARIMA_Forecast_Results.txt: The output of the model, including forecasted values and evaluation metrics.
-Time_series_analysis.py (or Time_series_analysis.ipynb): Python code or Jupyter notebook containing the full analysis.
+Time_series_analysis.py: Python code containing the full analysis.
 Plots and figures showing time series decomposition and forecasts.
 Usage
